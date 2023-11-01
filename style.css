@@ -9,3 +9,28 @@ h1{
     font-style:italic;
     font-size: 50px;
 }
+
+table, th, td{
+    border: 1px solid;
+    border-color:#f1e6dd;
+    text-align: center;
+}
+table{
+    color:black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td{
+    font-size:15px;
+    color:rgb(39, 39, 39); 
+}
+
+body{
+    background-color: #f1e6dd;
+}
+
+img{
+    width:100px;
+    height:100px;
+}
