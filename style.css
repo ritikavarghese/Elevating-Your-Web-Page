@@ -22,9 +22,20 @@ table{
     margin-right: auto;
 }
 
+th{
+    font-style: italic;
+    font-size:35px;
+}
 td{
     font-size:15px;
     color:rgb(39, 39, 39); 
+    font-family:'Garamond', Serif;
+    line-height: 35px;
+}
+
+#activities{
+    font-family:'Georgia', Serif;
+    font-size:  20px;
 }
 
 body{
