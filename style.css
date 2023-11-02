@@ -28,7 +28,7 @@ th{
 }
 td{
     font-size:15px;
-    color:rgb(39, 39, 39); 
+    color:rgb(0, 0, 0); 
     font-family:'Garamond', Serif;
     line-height: 35px;
 }
@@ -39,14 +39,15 @@ td{
 }
 
 #fd{
-    color:rgb(39, 39, 39); 
+    color:rgb(0, 0, 0); 
 }
 
 body{
     background-color: #f1e6dd;
 }
 
-img{
+
+#end{
     width:100px;
     height:100px;
 }
